@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "WiMLDS Open Source Sprints",
+    "description": "",
+    "home_page_url": "https://reshamas.github.io/open-source-sprints",
+    "feed_url": "https://reshamas.github.io/open-source-sprints/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Reshama Shaikh"
+    },
+    "items": [
+        {
+            "id": "https://reshamas.github.io/open-source-sprints/test.html",
+            "url": "https://reshamas.github.io/open-source-sprints/test.html",
+            "title": "TEST",
+            "summary": "test page xxx",
+            "content_html": "test page xxx",
+            "author": {
+                "name": "Reshama Shaikh"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-31T17:33:32-04:00",
+            "date_modified": "2019-03-31T17:33:32-04:00"
+        }
+    ]
+}
