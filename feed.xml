@@ -3,41 +3,69 @@
     <title>WiMLDS Open Source Sprints</title>
     <link href="https://reshamas.github.io/open-source-sprints/feed.xml" rel="self" />
     <link href="https://reshamas.github.io/open-source-sprints" />
-    <updated>2019-03-31T18:31:21-04:00</updated>
+    <updated>2019-03-31T18:45:35-04:00</updated>
     <author>
         <name>Reshama Shaikh</name>
     </author>
     <id>https://reshamas.github.io/open-source-sprints</id>
 
     <entry>
-        <title>test 2</title>
+        <title>2017 WiMLDS Scikit-learn Sprint</title>
         <author>
             <name>Reshama Shaikh</name>
         </author>
-        <link href="https://reshamas.github.io/open-source-sprints/test-2.html"/>
-        <id>https://reshamas.github.io/open-source-sprints/test-2.html</id>
+        <link href="https://reshamas.github.io/open-source-sprints/2017-wimlds-scikit-learn-sprint.html"/>
+        <id>https://reshamas.github.io/open-source-sprints/2017-wimlds-scikit-learn-sprint.html</id>
 
-        <updated>2019-03-31T17:56:09-04:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>TEST</title>
-        <author>
-            <name>Reshama Shaikh</name>
-        </author>
-        <link href="https://reshamas.github.io/open-source-sprints/test.html"/>
-        <id>https://reshamas.github.io/open-source-sprints/test.html</id>
-
-        <updated>2019-03-31T17:33:32-04:00</updated>
+        <updated>2019-03-31T18:41:01-04:00</updated>
             <summary>
                 <![CDATA[
-                    test page xxx
+                    Noemi Derzsy shares her experience participating in her first open source sprint with WiMLDS.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                test page xxx
+                Noemi Derzsy shares her experience participating in her first <a href="http://wimlds.org/noemi-derzsy-scikit-learn-sprint/">open source sprint</a> with WiMLDS.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Highlights From The 2018 Nyc Wimlds Scikit Sprint</title>
+        <author>
+            <name>Reshama Shaikh</name>
+        </author>
+        <link href="https://reshamas.github.io/open-source-sprints/highlights-from-the-2018-nyc-wimlds-scikit-sprint.html"/>
+        <id>https://reshamas.github.io/open-source-sprints/highlights-from-the-2018-nyc-wimlds-scikit-sprint.html</id>
+
+        <updated>2019-03-31T18:38:42-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Highlights From The 2018 Nyc Wimlds Scikit Sprint
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mcetoc_1d7auejf40" class="archive__item-title"><a href="https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/" target="_blank" rel="nofollow noopener noreferrer">Highlights From The 2018 Nyc Wimlds Scikit Sprint</a></h2>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>WiMLDS Sprint Impact Report </title>
+        <author>
+            <name>Reshama Shaikh</name>
+        </author>
+        <link href="https://reshamas.github.io/open-source-sprints/wimlds-sprint-impact-report.html"/>
+        <id>https://reshamas.github.io/open-source-sprints/wimlds-sprint-impact-report.html</id>
+
+        <updated>2019-03-31T18:37:47-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This Impact Report includes the process and achievements from the 2017 and 2018 WiMLDS scikit-learn sprints held in New York City:
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                This <a href="https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/">Impact Report</a> includes the process and achievements from the 2017 and 2018 WiMLDS scikit-learn sprints held in New York City:
             ]]>
         </content>
     </entry>

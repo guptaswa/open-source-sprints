@@ -10,30 +10,46 @@
     },
     "items": [
         {
-            "id": "https://reshamas.github.io/open-source-sprints/test-2.html",
-            "url": "https://reshamas.github.io/open-source-sprints/test-2.html",
-            "title": "test 2",
+            "id": "https://reshamas.github.io/open-source-sprints/2017-wimlds-scikit-learn-sprint.html",
+            "url": "https://reshamas.github.io/open-source-sprints/2017-wimlds-scikit-learn-sprint.html",
+            "title": "2017 WiMLDS Scikit-learn Sprint",
+            "summary": "Noemi Derzsy shares her experience participating in her first open source sprint with WiMLDS.",
+            "content_html": "Noemi Derzsy shares her experience participating in her first <a href=\"http://wimlds.org/noemi-derzsy-scikit-learn-sprint/\">open source sprint</a> with WiMLDS.",
             "author": {
                 "name": "Reshama Shaikh"
             },
             "tags": [
             ],
-            "date_published": "2019-03-31T17:56:09-04:00",
-            "date_modified": "2019-03-31T17:56:09-04:00"
+            "date_published": "2019-03-31T18:41:01-04:00",
+            "date_modified": "2019-03-31T18:41:01-04:00"
         },
         {
-            "id": "https://reshamas.github.io/open-source-sprints/test.html",
-            "url": "https://reshamas.github.io/open-source-sprints/test.html",
-            "title": "TEST",
-            "summary": "test page xxx",
-            "content_html": "test page xxx",
+            "id": "https://reshamas.github.io/open-source-sprints/highlights-from-the-2018-nyc-wimlds-scikit-sprint.html",
+            "url": "https://reshamas.github.io/open-source-sprints/highlights-from-the-2018-nyc-wimlds-scikit-sprint.html",
+            "title": "Highlights From The 2018 Nyc Wimlds Scikit Sprint",
+            "summary": "Highlights From The 2018 Nyc Wimlds Scikit Sprint",
+            "content_html": "<h2 id=\"mcetoc_1d7auejf40\" class=\"archive__item-title\"><a href=\"https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Highlights From The 2018 Nyc Wimlds Scikit Sprint</a></h2>",
             "author": {
                 "name": "Reshama Shaikh"
             },
             "tags": [
             ],
-            "date_published": "2019-03-31T17:33:32-04:00",
-            "date_modified": "2019-03-31T17:33:32-04:00"
+            "date_published": "2019-03-31T18:38:42-04:00",
+            "date_modified": "2019-03-31T18:38:42-04:00"
+        },
+        {
+            "id": "https://reshamas.github.io/open-source-sprints/wimlds-sprint-impact-report.html",
+            "url": "https://reshamas.github.io/open-source-sprints/wimlds-sprint-impact-report.html",
+            "title": "WiMLDS Sprint Impact Report ",
+            "summary": "This Impact Report includes the process and achievements from the 2017 and 2018 WiMLDS scikit-learn sprints held in New York City:",
+            "content_html": "This <a href=\"https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/\">Impact Report</a> includes the process and achievements from the 2017 and 2018 WiMLDS scikit-learn sprints held in New York City:",
+            "author": {
+                "name": "Reshama Shaikh"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-31T18:37:47-04:00",
+            "date_modified": "2019-03-31T18:37:47-04:00"
         }
     ]
 }
